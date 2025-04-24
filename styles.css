@@ -10,7 +10,7 @@
   --dark-color: #010113;
 }
 .nombre{
-  color: rgba(214, 201, 9, 0.781);
+  color: rgba(214, 200, 9, 0.651);
   font-size: 45px;
   position: absolute;
   top: 20px;
@@ -190,7 +190,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #e7b201;
+  background-color: #015de7;
   filter: blur(10vmin);
 }
 .flower__leaf {
